@@ -1,0 +1,6 @@
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\bin\Debug\AzureDevOps_Webinar.dacpac
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\obj\Debug\AzureDevOps_Webinar.sqlprojAssemblyReference.cache
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\obj\Debug\AzureDevOps_Webinar.dll
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\obj\Debug\AzureDevOps_Webinar.pdb
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\bin\Debug\AzureDevOps_Webinar.dll
+C:\Users\Carlos D. Serrano\source\repos\DevOps%20Demo\AzureDevOps_Webinar\AzureDevOps_Webinar\bin\Debug\AzureDevOps_Webinar.pdb

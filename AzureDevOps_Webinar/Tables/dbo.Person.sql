@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[Person]
+(
+	PersonID INT NOT NULL  IDENTITY(1,1) 
+	,FirstName VARCHAR(100) NOT NULL
+	,LastName VARCHAR(100) NOT NULL
+	,SexTypeID INT NOT NULL
+	,Email VARCHAR(300)
+	,Age INT NOT NULL
+	,[DOB] DATE NULL, 
+    CONSTRAINT [PK_dbo-Person_PersonID] PRIMARY KEY CLUSTERED (PersonID)
+	,CONSTRAINT [FK_dbo-Person_SexTypeID] FOREIGN KEY (SexTypeID) REFERENCES Reference.SexType(SexTypeID)
+)

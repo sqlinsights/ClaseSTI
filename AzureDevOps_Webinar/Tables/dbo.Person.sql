@@ -3,7 +3,7 @@
 	PersonID INT NOT NULL  IDENTITY(1,1) 
 	,FirstName VARCHAR(100) NOT NULL
 	,LastName VARCHAR(100) NOT NULL
-	,SurnName Varchar(100) NULL
+	,SurName Varchar(100) NULL
 	,SexTypeID INT NOT NULL
 	,Email VARCHAR(300)
 	,Age INT NOT NULL
